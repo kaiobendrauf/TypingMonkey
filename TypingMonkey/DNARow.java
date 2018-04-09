@@ -1,5 +1,3 @@
-package TypingMonkey;
-
 class DNARow {
 	int maxNumberOfElements;
 	DNA[] DNAArray;

@@ -1,5 +1,3 @@
-package TypingMonkey;
-
 import java.io.PrintStream;
 import java.util.Locale;
 
@@ -11,8 +9,8 @@ class TypingMonkey {
 	
 	static final int POPULATION_SIZE 			= 1000,
 					 MATING_POOL_MULTIPLICATION = 1000,
-					 TARGET_THRESHOLD 			= 1000,
-					 MAX_GENERATIONS 			= 10000;
+					 TARGET_THRESHOLD 			= 800,
+					 MAX_GENERATIONS 			= 30;
 	static final double LOW_MATING_POOL_CUT_OFF	= 0.001,
 					    HIGH_MATING_POOL_CUT_OFF= 1.;
 	

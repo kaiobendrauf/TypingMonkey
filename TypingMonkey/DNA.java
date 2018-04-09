@@ -1,11 +1,8 @@
-package TypingMonkey;
-
-
 class DNA {
 	
-	static final double MUTATION_RATE = .0001;
-	static final String TARGET = "to be or not to be",
-				 		ALPHABET = "1234567890=qwertyuiopasdfghjklzxcvbnm QWERTY<>?UIOPASDFGHJKLZXCVBNM,.;'[]!@#$%^^^&*()_+";
+	static final double MUTATION_RATE = .001;
+	static final String TARGET = "Hello World.",
+				 		ALPHABET = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM 1234567890-=[];'\\,./`!@#$%^&*()_+{}\"|?><~";
 	
 	char[] genes;
 	
