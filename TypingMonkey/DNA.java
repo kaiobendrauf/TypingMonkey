@@ -2,7 +2,7 @@ class DNA {
 	
 	static final double MUTATION_RATE = .001;
 	static final String TARGET = "Hello World.",
-				 		ALPHABET = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM 1234567890-=[];'\\,./`!@#$%^&*()_+{}\"|?><~";
+				 		ALPHABET = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM 1234567890.,;:?!";
 	
 	char[] genes;
 	
