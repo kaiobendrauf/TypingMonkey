@@ -1,6 +1,6 @@
 # TypingMonkey
 
-Code and exercise from [http://natureofcode.com/book/chapter-9-the-evolution-of-code/](http://natureofcode.com/book/chapter-9-the-evolution-of-code/) . 
+Code and exercise from [http://natureofcode.com/book/chapter-9-the-evolution-of-code/](http://natureofcode.com/book/chapter-9-the-evolution-of-code/) , the GitHub link is: https://github.com/shiffman/The-Nature-of-Code . 
 
 An evolutionary algorithm that tries to "create" a word / phrase. 
 You can watch the words in each "generation" be created and hopefully become closer and closer to the target.
